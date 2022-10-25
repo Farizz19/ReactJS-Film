@@ -1,0 +1,51 @@
+.head {
+    height: 100vh;
+    background-image: url(../assets/images/bg/main.jpg);
+    background-size: cover;
+}
+
+.caption {
+    height: 100vh;
+    color: burlywood;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+#trending {
+    height: auto;
+    background-image: url(../assets/images/bg/romance.jpg);
+    background-size: cover;
+}
+
+#superhero {
+    height: auto;
+    background-image: url(../assets/images/bg/scifi.jpg);
+    background-size: cover;
+}
+
+#p {
+    height: 600px;
+}
+
+
+#nav {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#footer {
+    height: 66vh;
+}
+
+#bios {
+    width: 45px;
+    margin-bottom: 10px;
+}
+
+#n:hover {
+    background-color: red;
+
+}
